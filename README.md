@@ -1,6 +1,6 @@
 # Selcetion-insertion-sort-
 
-## [22,27,16,2,18,6] -> Insertion Sort Yukarıdaki sayı dizisinin sort türüne göre sıralanma aşamaları;
+## [22,27,16,2,18,6] -> Yandaki sayı dizisinin Insertion Sort türüne göre sıralanma aşamaları;
 * En küçük eleman bulunur ve en baştaki ile yer değiştirir: [2,27,16,22,18,6]
 * 2.en küçük eleman bulunur ve 2. elemanla yer değiştirir: [2,6,16,22,18,27] 
 * 3.en küçük eleman bulunur ve 3. elemanla yer değiştirir: [2,6,16,22,18,27] 
