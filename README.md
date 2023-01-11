@@ -1,5 +1,5 @@
 # Selcetion-insertion-sort-
-## insertion sort dizinin başından sonuna olan her veriyi teker teker kontrol edip sıralayan bir sıralama algoritmasıdır.
+
 ## [22,27,16,2,18,6] -> Insertion Sort Yukarıdaki sayı dizisinin sort türüne göre sıralanma aşamaları;
 * En küçük eleman bulunur ve en baştaki ile yer değiştirir: [2,27,16,22,18,6]
 * 2.en küçük eleman bulunur ve 2. elemanla yer değiştirir: [2,6,16,22,18,27] 
